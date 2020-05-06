@@ -1,0 +1,13 @@
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\bin\Debug\ExamWork_1.exe.config
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\bin\Debug\ExamWork_1.exe
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\bin\Debug\ExamWork_1.pdb
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\bin\Debug\EntityFramework.dll
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\bin\Debug\EntityFramework.xml
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\obj\Debug\ExamWork_1.csprojAssemblyReference.cache
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\obj\Debug\ExamWork_1.csproj.CoreCompileInputs.cache
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\obj\Debug\ExamWork_1.csproj.CopyComplete
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\obj\Debug\ExamWork_1.exe
+C:\Users\Алишер Борангазиев\source\repos\ExamWork_1\ExamWork_1\obj\Debug\ExamWork_1.pdb
